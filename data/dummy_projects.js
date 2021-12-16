@@ -1,0 +1,110 @@
+module.exports =  [
+    {
+        "project_id": 1,
+        "project_name": "Phosphorus Phon Flea",
+        "project_owner": "Ryota Albanesi",
+        "project_language": "Java",
+        "project_date_ymd": "2021-05-02",
+        "project_date": "May 02 (Sun)",
+        "project_time": "9:30 AM",
+        "project_duration": 40,
+        "project_members": 2,
+        "project_description": "This project codes the rate of animal flea infestations."
+    },
+    {
+        "project_id": 2,
+        "project_name": "Niobium Kelvin Fly",
+        "project_owner": "Styliani Hughes",
+        "project_language": "Java",
+        "project_date_ymd": "2021-05-04",
+        "project_date": "May 04 (Tues)",
+        "project_time": "1:33 PM",
+        "project_duration": 15,
+        "project_members": 1,
+        "project_description": "This project concentrates on coding the behaviors of a fly."
+    },
+    {
+        "project_id": 3,
+        "project_name": "Mercury Ell Bee",
+        "project_owner": "Ruslan Sommer",
+        "project_language": "Python",
+        "project_date_ymd": "2021-05-03",
+        "project_date": "May 03 (Mon)",
+        "project_time": "5:10 AM",
+        "project_duration": 30,
+        "project_members": 1,
+        "project_description": "This project examines what will happen to global agricultural output if all the bees die."
+    },
+    {
+        "project_id": 4,
+        "project_name": "Nitrogen Dyne Mosquito",
+        "project_owner": "Tanzi Abrahamsen",
+        "project_language": "C++",
+        "project_date_ymd": "2021-05-04",
+        "project_date": "May 04 (Tues)",
+        "project_time": "6:30 PM",
+        "project_duration": 20,
+        "project_members": 3,
+        "project_description": "This project looks at how fast one mosquito can spread malaria."
+    },
+    {
+        "project_id": 5,
+        "project_name": "Protactinium Pitch Snail ",
+        "project_owner": "Wibo Kovac",
+        "project_language": "Python",
+        "project_date_ymd": "2021-05-02",
+        "project_date": "May 02 (Sun)",
+        "project_time": "8:40 PM",
+        "project_duration": 25,
+        "project_members": 5,
+        "project_description": "This project focuses on how fast snails can clean the ocean."
+    },
+    {
+        "project_id": 6,
+        "project_name": "Tin Rutherford Cockroach",
+        "project_owner": "Voitto Nicolas",
+        "project_language": "JavaScript",
+        "project_date_ymd": "2021-05-02",
+        "project_date": "May 02 (Sun)",
+        "project_time": "4:20 PM",
+        "project_duration": 10,
+        "project_members": 3,
+        "project_description": "This project codes fake cockroaches to use as practical jokes."
+    },
+    {
+        "project_id": 7,
+        "project_name": "Neodymium Karat Beetle",
+        "project_owner": "Roksana Lund",
+        "project_language": "Python",
+        "project_date_ymd": "2021-05-03",
+        "project_date": "May 03 (Mon)",
+        "project_time": "10:30 AM",
+        "project_duration": 15,
+        "project_members": 2,
+        "project_description": "This code examines beetles from all different countries."
+    },
+    {
+        "project_id": 8,
+        "project_name": "Europium Kelvin Grub",
+        "project_owner": "Mykesh Morriss",
+        "project_language": "Java",
+        "project_date_ymd": "2021-05-02",
+        "project_date": "May 02 (Sun)",
+        "project_time": "11:00 AM",
+        "project_duration": 55,
+        "project_members": 1,
+        "project_description": "This project looks at exotic bugs with a concentration on grubs."
+    },
+    {
+        "project_id": 9,
+        "project_name": "Copernicum Rutherford Flea",
+        "project_owner": "Jagannatha Walsh",
+        "project_language": "Python",
+        "project_date_ymd": "2021-05-03",
+        "project_date": "May 03 (Sun)",
+        "project_time": "10:57 PM",
+        "project_duration": 35,
+        "project_members": 2,
+        "project_description": "This project codes how fast a flea can possibly jump."
+    }
+]
