@@ -2,7 +2,7 @@ module.exports =  [
     {
         "project_id": 1,
         "project_name": "Phosphorus Phon Flea",
-        "project_owner": "Ryota Albanesi",
+        "project_grade": "Freshman",
         "project_language": "Java",
         "project_date_ymd": "2021-05-02",
         "project_date": "May 02 (Sun)",
@@ -14,7 +14,7 @@ module.exports =  [
     {
         "project_id": 2,
         "project_name": "Niobium Kelvin Fly",
-        "project_owner": "Styliani Hughes",
+        "project_grade": "Senior",
         "project_language": "Java",
         "project_date_ymd": "2021-05-04",
         "project_date": "May 04 (Tues)",
@@ -25,20 +25,20 @@ module.exports =  [
     },
     {
         "project_id": 3,
-        "project_name": "Mercury Ell Bee",
-        "project_owner": "Ruslan Sommer",
+        "project_name": "Crazy Cats Flying",
+        "project_grade": "Senior",
         "project_language": "Python",
         "project_date_ymd": "2021-05-03",
         "project_date": "May 03 (Mon)",
         "project_time": "5:10 AM",
         "project_duration": 30,
         "project_members": 1,
-        "project_description": "This project examines what will happen to global agricultural output if all the bees die."
+        "project_description": "This project examines what will happen to global agricultural output if all cats could fly."
     },
     {
         "project_id": 4,
         "project_name": "Nitrogen Dyne Mosquito",
-        "project_owner": "Tanzi Abrahamsen",
+        "project_grade": "Junior",
         "project_language": "C++",
         "project_date_ymd": "2021-05-04",
         "project_date": "May 04 (Tues)",
@@ -50,7 +50,7 @@ module.exports =  [
     {
         "project_id": 5,
         "project_name": "Protactinium Pitch Snail ",
-        "project_owner": "Wibo Kovac",
+        "project_grade": "Senior",
         "project_language": "Python",
         "project_date_ymd": "2021-05-02",
         "project_date": "May 02 (Sun)",
@@ -62,7 +62,7 @@ module.exports =  [
     {
         "project_id": 6,
         "project_name": "Tin Rutherford Cockroach",
-        "project_owner": "Voitto Nicolas",
+        "project_grade": "Sophomore",
         "project_language": "JavaScript",
         "project_date_ymd": "2021-05-02",
         "project_date": "May 02 (Sun)",
@@ -74,7 +74,7 @@ module.exports =  [
     {
         "project_id": 7,
         "project_name": "Neodymium Karat Beetle",
-        "project_owner": "Roksana Lund",
+        "project_grade": "Junior",
         "project_language": "Python",
         "project_date_ymd": "2021-05-03",
         "project_date": "May 03 (Mon)",
@@ -86,7 +86,7 @@ module.exports =  [
     {
         "project_id": 8,
         "project_name": "Europium Kelvin Grub",
-        "project_owner": "Mykesh Morriss",
+        "project_grade": "Freshman",
         "project_language": "Java",
         "project_date_ymd": "2021-05-02",
         "project_date": "May 02 (Sun)",
@@ -98,7 +98,7 @@ module.exports =  [
     {
         "project_id": 9,
         "project_name": "Copernicum Rutherford Flea",
-        "project_owner": "Jagannatha Walsh",
+        "project_grade": "Senior",
         "project_language": "Python",
         "project_date_ymd": "2021-05-03",
         "project_date": "May 03 (Sun)",

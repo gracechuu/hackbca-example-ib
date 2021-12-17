@@ -1,10 +1,10 @@
 var express = require('express');
 var router = express.Router();
 
-const events_data = require('../data/dummy_projects')
+const projects_data = require('../data/dummy_projects')
 
 router.get('/', function(req, res, next) {
-  res.render('events', { title: 'Projects', style: "tables", projects : projects_data});
+  res.render('projects', { title: 'Projects', style: "tables", projects : projects_data});
 });
 
 router.get('/create', function(req, res, next) {
@@ -13,12 +13,6 @@ router.get('/create', function(req, res, next) {
 
 router.get('/modify/:project_id', function(req, res, next) {
   let project_id = req.params.project_id;
-  // let event;
-  // for(int i = 0; i < events_data.length; i++) {
-  //   if (events_data[i].event_id === event_id)
-  //     event = events_data[i];
-  // }
-  //alternatively
   let project = projects_data.find(function(pjct){ return pjct.project_id == project_id});
   if (project === undefined ){
     next(); //pass along, send 404
