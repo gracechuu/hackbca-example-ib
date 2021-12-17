@@ -62,11 +62,11 @@
               <!-- If user already "starred" this event, it should be a yellow star -->
               <!-- <a onclick='toggleInterest(this, "{{ event_id }}"))'class="btn-floating btn-small waves-effect waves-light scale-transition scale-in yellow"><iclass="material-icons">star</i></a> -->
             </td>
-            <td class="blue-text clickable" onclick="location.href='/project/{{project_id}}'">{{project_name}}</td>
-            <td> <a href='?filter=location:{{project_grade}}'>{{project_grade}} </a></td>
+            <td class="blue-text clickable" onclick="location.href='/projects/{{project_id}}'">{{project_name}}</td>
+            <td> <a href='?filter=grade:{{project_grade}}'>{{project_grade}} </a></td>
             <td><a href='?filter=date:05-02-2021'>{{project_date}}</a> {{project_time}}</td>
             <td>{{project_duration}}</td>
-            <td> <a href='?filter=type:Main'>{{project_language}}</a></td>
+            <td> <a href='?filter=language:Java'>{{project_language}}</a></td>
             <td>{{project_members}}<i class=material-icons>people</i></td>
             <!-- ADMIN ONLY BUTTONS -->
             <td nowrap>
